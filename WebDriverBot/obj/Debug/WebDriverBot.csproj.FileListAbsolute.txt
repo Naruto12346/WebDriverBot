@@ -7,3 +7,7 @@ C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriv
 C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.csproj.CoreCompileInputs.cache
 C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.exe
 C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.pdb
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.Form1.resources
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\bin\Debug\WebDriver.dll
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\bin\Debug\WebDriver.Support.dll
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.csproj.CopyComplete
