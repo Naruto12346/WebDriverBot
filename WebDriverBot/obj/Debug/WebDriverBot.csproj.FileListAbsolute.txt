@@ -1,0 +1,9 @@
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\bin\Debug\WebDriverBot.exe.config
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\bin\Debug\WebDriverBot.exe
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\bin\Debug\WebDriverBot.pdb
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.Properties.Resources.resources
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.exe
+C:\Users\Roman\Documents\laravel-dev\WebDriverBot\WebDriverBot\obj\Debug\WebDriverBot.pdb
